@@ -11,7 +11,7 @@ condicao = True
 menu = """.......................................................
 Bem vindo ao menu da Ouvidoria!   
 1) Para listar reclamações
-2) Para adicionar reclamações
+2) Para adicionar reclamação
 3) Para remover reclamações
 4) Para pesquisar reclamações
 5) Para sair do programa
